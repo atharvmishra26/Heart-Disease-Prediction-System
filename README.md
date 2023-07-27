@@ -77,7 +77,3 @@ The performance of the Heart Disease Prediction System is regularly evaluated us
 ## Contributing
 
 We welcome contributions to the Heart Disease Prediction System. If you would like to report issues, suggest improvements, or submit new features, please feel free to open a new issue or create a pull request in this repository.
-
-## License
-
-The Heart Disease Prediction System is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software for personal or commercial purposes. However, we provide no warranties regarding its use or performance.
